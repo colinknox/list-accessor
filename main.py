@@ -26,12 +26,24 @@ def get_first_three(items):
     return items[0:3]
 
 
-test1 = get_at_index(list, 5)
-test1 = get_first_three(list)
 
-
+## get_first TEST
 # test1 = get_first(list)
+
+## get_last TEST
 # test1 = get_last(list)
+
+## get_middle TEST
 # test1 = get_middle(list)
 
-print(test1)
+## get_at_index TEST
+# test1 = get_at_index(list, 5)
+# test2 = get_at_index(list, 7)
+# test3 = get_at_index(list, 3)
+
+## get_first_three TEST
+# test1 = get_first_three(list)
+
+
+
+# print(test1)
